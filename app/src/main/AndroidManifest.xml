@@ -9,6 +9,24 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity
+            android:name=".Wanganteng6"
+            android:exported="true" />
+        <activity
+            android:name=".Wanganteng5"
+            android:exported="true" />
+        <activity
+            android:name=".Wanganteng4"
+            android:exported="true" />
+        <activity
+            android:name=".Wanganteng3"
+            android:exported="true" />
+        <activity
+            android:name=".Wanganteng2"
+            android:exported="true" />
+        <activity
+            android:name=".Wanganteng1"
+            android:exported="true" />
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

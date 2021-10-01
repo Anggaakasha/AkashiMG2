@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AkashiMG</string>
+    <string name="pindah_ke_wanganteng1">pindah ke Wanganteng1</string>
+    <string name="string_pindah_ke_wanganteng2">string/pindah ke Wanganteng2</string>
+    <string name="string_pindah_ke_wanganteng3">string/pindah_ke_Wanganteng3</string>
+    <string name="string_pindah_ke_wanganteng4">string/pindah ke Wanganteng4</string>
+    <string name="string_pindah_ke_wanganteng5">string/pindah ke Wanganteng5</string>
+    <string name="string_pindahkewanganteng6">string/pindahkeWanganteng6</string>
 </resources>

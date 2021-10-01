@@ -39,10 +39,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_beer"
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/beer">
+                    android:src="@drawable/beer"
+                    android:text="@string/pindah_ke_wanganteng1">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -74,10 +76,12 @@
                 android:orientation="vertical">
 
                 <ImageView
+                    android:id="@+id/iv_Coffe"
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity="center_horizontal|center_vertical"
-                    android:src="@drawable/coffe">
+                    android:src="@drawable/coffe"
+                    android:text="@string/string_pindah_ke_wanganteng2">
 
                 </ImageView>
 
@@ -110,10 +114,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_hotchocolate"
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/hotchocolate">
+                    android:src="@drawable/hotchocolate"
+                    android:text="@string/string_pindah_ke_wanganteng3">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -143,10 +149,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_juice"
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/juice">
+                    android:src="@drawable/juice"
+                    android:text="@string/string_pindah_ke_wanganteng4">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -176,10 +184,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_milk"
                     android:layout_width="120dp"
                     android:layout_height="120dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/milk">
+                    android:src="@drawable/milk"
+                    android:text="@string/string_pindah_ke_wanganteng5">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
@@ -209,10 +219,12 @@
                 android:orientation="vertical"
                 android:layout_gravity = "center_horizontal|center_vertical">
                 <ImageView
+                    android:id="@+id/iv_tea"
                     android:layout_width="110dp"
                     android:layout_height="110dp"
                     android:layout_gravity = "center_horizontal|center_vertical"
-                    android:src="@drawable/tea">
+                    android:src="@drawable/tea"
+                    android:text="@string/string_pindahkewanganteng6">
                 </ImageView>
                 <TextView
                     android:layout_width="wrap_content"
